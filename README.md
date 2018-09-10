@@ -1,8 +1,6 @@
 # JavaVendingMachine
 Java Vending Machine Project
 
-# Happy Birthday from Arnold and Dusty
-
 This is a Java console application that is designed to emulate a vending machine.  The project was created to practice Java
 using the MVC patter, dependency injection, user input/output, BigDecimal, unit testing, and enums.
 
