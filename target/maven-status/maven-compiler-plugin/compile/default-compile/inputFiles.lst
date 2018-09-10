@@ -1,0 +1,17 @@
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDao.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIO.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/service/VendingMachineInvalidSelectionException.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/service/VendingMachineServiceLayerImpl.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/advice/LoggingAdvice.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dto/Snack.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/service/VendingMachineServiceLayer.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/main/App.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dto/Coin.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/controller/VendingMachineController.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIOConsoleImpl.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoStubImpl.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineAuditDao.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/ui/VendingMachineView.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dao/SnackInventoryPersistenceException.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoFileImpl.java
+/Users/timpinkerton/Desktop/SG/bitbucket/tim-pinkerton-individual-work/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineAuditDaoFileImpl.java

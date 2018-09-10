@@ -1,0 +1,5 @@
+A1::Zebra Cake::0.25::0
+A2::Egg Burrito::5.00::7
+A3::PB&J::2.00::0
+A4::Chicken Wing::8.25::32
+A5::Ice Cream Sandwich::1.25::35
